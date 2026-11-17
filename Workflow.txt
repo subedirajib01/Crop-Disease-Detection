@@ -1,0 +1,45 @@
+Why this structure?
+- raw: Original downloaded images. Never modify these.
+- processed: Cleaned and resized images.
+- split: Images organized for model training and evaluation.
+- notebooks: Python experiments and pre processing code.
+- models: Saved trained models (Phase 3).
+
+
+Suppose you currently have PlantVillage and later download two additional datasets.
+
+Organize them like this:
+
+Smart-Crop-Disease-Detection/
+│
+├── dataset/
+│   │
+│   ├── raw/
+│   │   ├── PlantVillage/
+│   │   │   ├── Train/
+│   │   │   ├── Val/
+│   │   │   └── Test/
+│   │   │
+│   │   ├── Kaggle_Dataset_2/
+│   │   │   ├── Tomato___Healthy/
+│   │   │   ├── Tomato___Early_Blight/
+│   │   │   └── ...
+│   │   │
+│   │   └── Additional_Dataset_3/
+│   │       ├── Apple___Healthy/
+│   │       ├── Apple___Black_Rot/
+│   │       └── ...
+│   │
+│   ├── cleaned/
+│   ├── processed/
+│   └── split/
+│       ├── train/
+│       ├── validation/
+│       └── test/
+│
+├── notebooks/
+├── models/
+├── backend/
+├── frontend/
+├── requirements.txt
+└── README.md

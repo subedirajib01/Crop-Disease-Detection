@@ -1,0 +1,88 @@
+Dataset,Class,Image_Count
+Train,Apple - Apple Scab,2016
+Train,Apple - Black Rot,1987
+Train,Apple - Cedar Apple Rust,1760
+Train,Apple - Healthy,2008
+Train,Bell Pepper - Bacterial Spot,1913
+Train,Bell Pepper - Healthy,1988
+Train,Cherry - Healthy,1826
+Train,Cherry - Powdery Mildew,1683
+Train,Corn (Maize) - Cercospora Leaf Spot,1642
+Train,Corn (Maize) - Common Rust,1907
+Train,Corn (Maize) - Healthy,1859
+Train,Corn (Maize) - Northern Leaf Blight,1908
+Train,Grape - Black Rot,1888
+Train,Grape - Esca (Black Measles),1920
+Train,Grape - Healthy,1692
+Train,Grape - Leaf Blight,1722
+Train,Peach - Bacterial Spot,1838
+Train,Peach - Healthy,1728
+Train,Potato - Early Blight,1939
+Train,Potato - Healthy,1824
+Train,Potato - Late Blight,1939
+Train,Strawberry - Healthy,1824
+Train,Strawberry - Leaf Scorch,1774
+Train,Tomato - Bacterial Spot,1702
+Train,Tomato - Early Blight,1920
+Train,Tomato - Healthy,1926
+Train,Tomato - Late Blight,1851
+Train,Tomato - Septoria Leaf Spot,1745
+Train,Tomato - Yellow Leaf Curl Virus,1961
+Val,Apple - Apple Scab,453
+Val,Apple - Black Rot,447
+Val,Apple - Cedar Apple Rust,396
+Val,Apple - Healthy,451
+Val,Bell Pepper - Bacterial Spot,430
+Val,Bell Pepper - Healthy,447
+Val,Cherry - Healthy,410
+Val,Cherry - Powdery Mildew,378
+Val,Corn (Maize) - Cercospora Leaf Spot,369
+Val,Corn (Maize) - Common Rust,429
+Val,Corn (Maize) - Healthy,418
+Val,Corn (Maize) - Northern Leaf Blight,429
+Val,Grape - Black Rot,424
+Val,Grape - Esca (Black Measles),432
+Val,Grape - Healthy,380
+Val,Grape - Leaf Blight,387
+Val,Peach - Bacterial Spot,413
+Val,Peach - Healthy,388
+Val,Potato - Early Blight,436
+Val,Potato - Healthy,410
+Val,Potato - Late Blight,436
+Val,Strawberry - Healthy,410
+Val,Strawberry - Leaf Scorch,399
+Val,Tomato - Bacterial Spot,382
+Val,Tomato - Early Blight,432
+Val,Tomato - Healthy,432
+Val,Tomato - Late Blight,416
+Val,Tomato - Septoria Leaf Spot,392
+Val,Tomato - Yellow Leaf Curl Virus,441
+Test,Apple - Apple Scab,51
+Test,Apple - Black Rot,50
+Test,Apple - Cedar Apple Rust,44
+Test,Apple - Healthy,51
+Test,Bell Pepper - Bacterial Spot,48
+Test,Bell Pepper - Healthy,50
+Test,Cherry - Healthy,46
+Test,Cherry - Powdery Mildew,43
+Test,Corn (Maize) - Cercospora Leaf Spot,41
+Test,Corn (Maize) - Common Rust,48
+Test,Corn (Maize) - Healthy,47
+Test,Corn (Maize) - Northern Leaf Blight,48
+Test,Grape - Black Rot,48
+Test,Grape - Esca (Black Measles),48
+Test,Grape - Healthy,43
+Test,Grape - Leaf Blight,43
+Test,Peach - Bacterial Spot,46
+Test,Peach - Healthy,44
+Test,Potato - Early Blight,49
+Test,Potato - Healthy,46
+Test,Potato - Late Blight,49
+Test,Strawberry - Healthy,46
+Test,Strawberry - Leaf Scorch,45
+Test,Tomato - Bacterial Spot,43
+Test,Tomato - Early Blight,48
+Test,Tomato - Healthy,49
+Test,Tomato - Late Blight,47
+Test,Tomato - Septoria Leaf Spot,44
+Test,Tomato - Yellow Leaf Curl Virus,49
