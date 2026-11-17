@@ -1,0 +1,9 @@
+Metric,Value
+Original images,67118
+Valid images,67118
+Corrupted images,0
+Duplicate groups,33
+Duplicate copies removed,33
+Cleaned images,67085
+Remaining duplicate groups,0
+Number of classes,29
